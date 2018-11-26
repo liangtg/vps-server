@@ -1,0 +1,8 @@
+{
+    "listen": ":8389",
+    "target": "127.0.0.2:8388",
+    "key": "liangtgkcptun",
+    "crypt": "aes",
+    "mode": "fast2",
+    "log":"/root/kcptun.log"
+}
